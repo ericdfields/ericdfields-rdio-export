@@ -1,0 +1,108 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>EDM (kinda)</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1124988</meta>
+  <meta rel="https://rdio.com/xspf/name">EDM (kinda)</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1124988/EDM_(kinda)/</meta>
+  <trackList>
+    <track>
+      <title>Stay With You (Radio Version)</title>
+      <creator>Lemon Jelly</creator>
+      <album>Stay With You</album>
+      <trackNum>1</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0462476</meta>
+    </track>
+    <track>
+      <title>Ow!</title>
+      <creator>Depressed Buttons</creator>
+      <album>Qwerty</album>
+      <trackNum>1</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZ4V1000220</meta>
+    </track>
+    <track>
+      <title>Spock</title>
+      <creator>Vcmg</creator>
+      <album>EP 1 / Spock</album>
+      <trackNum>1</trackNum>
+      <duration>342000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBR8R1100250</meta>
+    </track>
+    <track>
+      <title>Peace Pt 1</title>
+      <creator>DJ Food</creator>
+      <album>Ninja Tune Retrospect (No. 1)</album>
+      <trackNum>12</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB0001760</meta>
+    </track>
+    <track>
+      <title>The King of Dance</title>
+      <creator>Jazztronik</creator>
+      <album>Love Tribe</album>
+      <trackNum>2</trackNum>
+      <duration>527000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">JPPC00601537</meta>
+    </track>
+    <track>
+      <title>Sleep Deprivation</title>
+      <creator>Simian Mobile Disco</creator>
+      <album>Attack Decay Sustain Release</album>
+      <trackNum>1</trackNum>
+      <duration>298000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70744390</meta>
+    </track>
+    <track>
+      <title>Bounce (Radio Edit)</title>
+      <creator>Calvin Harris</creator>
+      <album>18 Months</album>
+      <trackNum>2</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1100468</meta>
+    </track>
+    <track>
+      <title>Stuck On Repeat</title>
+      <creator>Little Boots</creator>
+      <album>Hands</album>
+      <trackNum>3</trackNum>
+      <duration>201000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBFFS0800147</meta>
+    </track>
+    <track>
+      <title>I Need Air</title>
+      <creator>Magnetic Man</creator>
+      <album>Magnetic Man</album>
+      <trackNum>3</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1000680</meta>
+    </track>
+    <track>
+      <title>Number 1</title>
+      <creator>Goldfrapp</creator>
+      <album>The Singles</album>
+      <trackNum>2</trackNum>
+      <duration>205000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJH0500965</meta>
+    </track>
+    <track>
+      <title>I Love It (feat. Charli XCX) [Sick Individuals Remix] (feat. Charli XCX)</title>
+      <creator>Icona Pop</creator>
+      <album>I Love It (Remixes Pt. 2)</album>
+      <trackNum>2</trackNum>
+      <duration>405000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWEE1201509</meta>
+    </track>
+    <track>
+      <title>S'eteint Le Soleil</title>
+      <creator>Yelle</creator>
+      <album>Safari Disco Club</album>
+      <trackNum>11</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR9W11100043</meta>
+    </track>
+  </trackList>
+</playlist>

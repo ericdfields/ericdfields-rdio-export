@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>D</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p12327439</meta>
+  <meta rel="https://rdio.com/xspf/name">D</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/12327439/D/</meta>
+  <trackList>
+    <track>
+      <title>Ghosts</title>
+      <creator>MADE IN HEIGHTS</creator>
+      <album>Ghosts</album>
+      <trackNum>1</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACC1442283</meta>
+    </track>
+    <track>
+      <title>OctaHate</title>
+      <creator>Ryn Weaver</creator>
+      <album>OctaHate</album>
+      <trackNum>1</trackNum>
+      <duration>206000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71411253</meta>
+    </track>
+    <track>
+      <title>Silver</title>
+      <creator>Caribou</creator>
+      <album>Our Love</album>
+      <trackNum>2</trackNum>
+      <duration>316000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DED621401193</meta>
+    </track>
+  </trackList>
+</playlist>

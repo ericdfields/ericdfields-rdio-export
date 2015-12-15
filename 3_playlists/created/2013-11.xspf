@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-11</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p7040778</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-11</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/7040778/2013-11/</meta>
+  <trackList>
+    <track>
+      <title>If We Ever Meet Again (Featuring Katy Perry)</title>
+      <creator>Timbaland</creator>
+      <album>Shock Value II</album>
+      <trackNum>9</trackNum>
+      <duration>292000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70913828</meta>
+    </track>
+    <track>
+      <title>Rest Of My Life</title>
+      <creator>Ludacris</creator>
+      <album>Rest Of My Life</album>
+      <trackNum>1</trackNum>
+      <duration>232000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71213745</meta>
+    </track>
+    <track>
+      <title>Yr &lt;3</title>
+      <creator>Chrissy Murderbot</creator>
+      <album>Chrissy Murderbot</album>
+      <trackNum>9</trackNum>
+      <duration>278000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USK7A0900032</meta>
+    </track>
+  </trackList>
+</playlist>

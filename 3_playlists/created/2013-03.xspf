@@ -1,0 +1,52 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-03</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p2596586</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-03</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/2596586/2013-03/</meta>
+  <trackList>
+    <track>
+      <title>Nancy From Now On</title>
+      <creator>Father John Misty</creator>
+      <album>Fear Fun</album>
+      <trackNum>2</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBRP1233202,USSUB1297002</meta>
+    </track>
+    <track>
+      <title>Comme Un Enfant</title>
+      <creator>Yelle</creator>
+      <album>Safari Disco Club</album>
+      <trackNum>4</trackNum>
+      <duration>253000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR9W11100037</meta>
+    </track>
+    <track>
+      <title>Boom Boom</title>
+      <creator>Rye Rye</creator>
+      <album>Boom Boom</album>
+      <trackNum>1</trackNum>
+      <duration>203000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71201589</meta>
+    </track>
+    <track>
+      <title>Holdin On</title>
+      <creator>Flume</creator>
+      <album>Flume</album>
+      <trackNum>2</trackNum>
+      <duration>153000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF00500393</meta>
+    </track>
+    <track>
+      <title>Die Young (Deconstructed Mix)</title>
+      <creator>Ke$ha</creator>
+      <album>Deconstructed</album>
+      <trackNum>4</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11201382</meta>
+    </track>
+  </trackList>
+</playlist>

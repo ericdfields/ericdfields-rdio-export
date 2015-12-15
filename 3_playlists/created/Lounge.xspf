@@ -1,0 +1,980 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Lounge</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p2040796</meta>
+  <meta rel="https://rdio.com/xspf/name">Lounge</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/2040796/Lounge/</meta>
+  <trackList>
+    <track>
+      <title>Under the Bridge</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>1</trackNum>
+      <duration>268000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154601</meta>
+    </track>
+    <track>
+      <title>Californication</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>2</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154602</meta>
+    </track>
+    <track>
+      <title>Scar Tissue</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>3</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154603</meta>
+    </track>
+    <track>
+      <title>Otherside</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>5</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154605</meta>
+    </track>
+    <track>
+      <title>Give It Away</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>6</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154606</meta>
+    </track>
+    <track>
+      <title>Can't Stop</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>7</trackNum>
+      <duration>279000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154607</meta>
+    </track>
+    <track>
+      <title>Soul to Squeeze</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>8</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154608</meta>
+    </track>
+    <track>
+      <title>By The Way</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>9</trackNum>
+      <duration>164000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154609</meta>
+    </track>
+    <track>
+      <title>Snow (Hey Oh)</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Tribute to Red Hot Chili Peppers</album>
+      <trackNum>10</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1154610</meta>
+    </track>
+    <track>
+      <title>Gogol</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>1</trackNum>
+      <duration>122000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480010</meta>
+    </track>
+    <track>
+      <title>Manifesto</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>2</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480020</meta>
+    </track>
+    <track>
+      <title>Overnight</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>3</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480030</meta>
+    </track>
+    <track>
+      <title>Bermuda Triangle</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>4</trackNum>
+      <duration>93000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480040</meta>
+    </track>
+    <track>
+      <title>Dot</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>5</trackNum>
+      <duration>125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480060</meta>
+    </track>
+    <track>
+      <title>Armellodie</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>6</trackNum>
+      <duration>193000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480050</meta>
+    </track>
+    <track>
+      <title>Carnivalse</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>7</trackNum>
+      <duration>150000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480070</meta>
+    </track>
+    <track>
+      <title>Meischeid</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>8</trackNum>
+      <duration>125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480080</meta>
+    </track>
+    <track>
+      <title>Paristocrats</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>9</trackNum>
+      <duration>154000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480090</meta>
+    </track>
+    <track>
+      <title>Gentle Threat</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>10</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480100</meta>
+    </track>
+    <track>
+      <title>The Tourist</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>11</trackNum>
+      <duration>170000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480110</meta>
+    </track>
+    <track>
+      <title>Salon Saloon</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>12</trackNum>
+      <duration>125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480120</meta>
+    </track>
+    <track>
+      <title>Oregano</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>13</trackNum>
+      <duration>84000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480130</meta>
+    </track>
+    <track>
+      <title>Basmati</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>14</trackNum>
+      <duration>90000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480140</meta>
+    </track>
+    <track>
+      <title>CM Blues</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>15</trackNum>
+      <duration>272000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480150</meta>
+    </track>
+    <track>
+      <title>One Note At A Time</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano</album>
+      <trackNum>16</trackNum>
+      <duration>129000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY380480160</meta>
+    </track>
+    <track>
+      <title>White Keys</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>1</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180381</meta>
+    </track>
+    <track>
+      <title>Kenaston</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>2</trackNum>
+      <duration>186000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180382</meta>
+    </track>
+    <track>
+      <title>Minor Fantasy</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>3</trackNum>
+      <duration>208000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180383</meta>
+    </track>
+    <track>
+      <title>Escher</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>4</trackNum>
+      <duration>162000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180384</meta>
+    </track>
+    <track>
+      <title>Rideaux Lunaires</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>5</trackNum>
+      <duration>161000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180385</meta>
+    </track>
+    <track>
+      <title>Nero's Nocturne</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>6</trackNum>
+      <duration>137000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180386</meta>
+    </track>
+    <track>
+      <title>Venetian Blinds</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>7</trackNum>
+      <duration>166000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180387</meta>
+    </track>
+    <track>
+      <title>Evolving Doors</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>8</trackNum>
+      <duration>148000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180388</meta>
+    </track>
+    <track>
+      <title>Epigram in E</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>9</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180389</meta>
+    </track>
+    <track>
+      <title>Othello</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>10</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180390</meta>
+    </track>
+    <track>
+      <title>Train of Thought</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>11</trackNum>
+      <duration>147000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180391</meta>
+    </track>
+    <track>
+      <title>Wintermezzo</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>12</trackNum>
+      <duration>176000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180392</meta>
+    </track>
+    <track>
+      <title>La Bulle</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>13</trackNum>
+      <duration>172000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180393</meta>
+    </track>
+    <track>
+      <title>Papa Gavotte</title>
+      <creator>Chilly Gonzales</creator>
+      <album>Solo Piano II</album>
+      <trackNum>14</trackNum>
+      <duration>165000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEY381180394</meta>
+    </track>
+    <track>
+      <title>Love Will Tear Us Apart</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>1</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400019</meta>
+    </track>
+    <track>
+      <title>Just Can't Get Enough</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>2</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400020</meta>
+    </track>
+    <track>
+      <title>In A Manner Of Speaking</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>3</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400021</meta>
+    </track>
+    <track>
+      <title>Guns Of Brixton</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>4</trackNum>
+      <duration>246000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400022</meta>
+    </track>
+    <track>
+      <title>This Is Not a Love Song</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>5</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400023</meta>
+    </track>
+    <track>
+      <title>Too Drunk to Fuck</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>6</trackNum>
+      <duration>136000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400024</meta>
+    </track>
+    <track>
+      <title>Marian</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>7</trackNum>
+      <duration>233000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400025</meta>
+    </track>
+    <track>
+      <title>Making Plans for Nigel</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>8</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400026</meta>
+    </track>
+    <track>
+      <title>A Forest</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>9</trackNum>
+      <duration>219000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400027</meta>
+    </track>
+    <track>
+      <title>I Melt with You</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>10</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400028</meta>
+    </track>
+    <track>
+      <title>Teenage Kicks</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>11</trackNum>
+      <duration>133000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400029</meta>
+    </track>
+    <track>
+      <title>Psyche</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>12</trackNum>
+      <duration>252000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400030</meta>
+    </track>
+    <track>
+      <title>Friday Night, Saturday Morning</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>13</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400031</meta>
+    </track>
+    <track>
+      <title>Sorry for Laughing</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Nouvelle Vague</album>
+      <trackNum>14</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEWK0400032</meta>
+    </track>
+    <track>
+      <title>What I Like Most About You Is Your Girlfriend</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYK8400025</meta>
+    </track>
+    <track>
+      <title>Come On Eileen</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>2</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5EM1001052</meta>
+    </track>
+    <track>
+      <title>Baby</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>3</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BRPGD6800019</meta>
+    </track>
+    <track>
+      <title>Unless</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>4</trackNum>
+      <duration>277000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA8400373</meta>
+    </track>
+    <track>
+      <title>San Francisco Is A Lonely Town</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>5</trackNum>
+      <duration>208000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10000057</meta>
+    </track>
+    <track>
+      <title>Movement Of Fear</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>6</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAZP9800014</meta>
+    </track>
+    <track>
+      <title>Chaos</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>7</trackNum>
+      <duration>200000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900600004</meta>
+    </track>
+    <track>
+      <title>Urban Serenade</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>8</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRV220400013</meta>
+    </track>
+    <track>
+      <title>And I Love Him</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>9</trackNum>
+      <duration>149000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGR10110678</meta>
+    </track>
+    <track>
+      <title>The Vespertine Park</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>10</trackNum>
+      <duration>659000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5EM1001018</meta>
+    </track>
+    <track>
+      <title>A Fire In The Forest</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>11</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR2W80500005</meta>
+    </track>
+    <track>
+      <title>Civilization</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>12</trackNum>
+      <duration>274000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5EM1001053</meta>
+    </track>
+    <track>
+      <title>You're My Thrill</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>13</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10201512</meta>
+    </track>
+    <track>
+      <title>By the Time I Get to Phoenix</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>14</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCN16700004</meta>
+    </track>
+    <track>
+      <title>Le Poisson Des Mers Du Sud</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>15</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5EM1001054</meta>
+    </track>
+    <track>
+      <title>The Last Trick</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>16</trackNum>
+      <duration>327000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NOAHV0506120</meta>
+    </track>
+    <track>
+      <title>Nicole</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>17</trackNum>
+      <duration>246000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRS639700120</meta>
+    </track>
+    <track>
+      <title>Pheonix</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>18</trackNum>
+      <duration>341000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BE6F50600220</meta>
+    </track>
+    <track>
+      <title>You And Your Sister</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>19</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL9100066</meta>
+    </track>
+    <track>
+      <title>Lonely Girl (2002 - Remaster)</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>20</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEM30200235</meta>
+    </track>
+    <track>
+      <title>What I Ate</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>21</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5EM1001017</meta>
+    </track>
+    <track>
+      <title>Nouvelle Vague Late Night Tales Continuous Mix</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Late Night Tales: Nouvelle Vague (Remastered)</album>
+      <trackNum>22</trackNum>
+      <duration>4649000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB5EM1001027</meta>
+    </track>
+    <track>
+      <title>The Killing Moon</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600009</meta>
+    </track>
+    <track>
+      <title>Ever Fallen In Love</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>2</trackNum>
+      <duration>200000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600002</meta>
+    </track>
+    <track>
+      <title>Dance With Me</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>3</trackNum>
+      <duration>220000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600003</meta>
+    </track>
+    <track>
+      <title>Don't Go</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>4</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600005</meta>
+    </track>
+    <track>
+      <title>Dancing With Myself</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>5</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600004</meta>
+    </track>
+    <track>
+      <title>Pride - In The Name Of Love</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>6</trackNum>
+      <duration>272000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600017</meta>
+    </track>
+    <track>
+      <title>O Pamela</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>7</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600012</meta>
+    </track>
+    <track>
+      <title>Heart Of Glass</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>8</trackNum>
+      <duration>213000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600001</meta>
+    </track>
+    <track>
+      <title>Confusion</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>9</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600018</meta>
+    </track>
+    <track>
+      <title>Human Fly</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>10</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600006</meta>
+    </track>
+    <track>
+      <title>Bela Lugosi's Dead</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>11</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600008</meta>
+    </track>
+    <track>
+      <title>Shack Up</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>12</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600016</meta>
+    </track>
+    <track>
+      <title>Let Me Go</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>13</trackNum>
+      <duration>233000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600010</meta>
+    </track>
+    <track>
+      <title>Fade To Grey</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>14</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600013</meta>
+    </track>
+    <track>
+      <title>Moody (U.S. Bonus Track)</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>15</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600020</meta>
+    </track>
+    <track>
+      <title>Sweet And Tender Hooligan (U.S. Bonus Track)</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>16</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLB10610024</meta>
+    </track>
+    <track>
+      <title>Blue Monday (U.S. Bonus Track)</title>
+      <creator>Nouvelle Vague</creator>
+      <album>Bande A Part</album>
+      <trackNum>17</trackNum>
+      <duration>184000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR13Z0600011</meta>
+    </track>
+    <track>
+      <title>Master And Servant (feat. Martin Gore)</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900118</meta>
+    </track>
+    <track>
+      <title>Blister In The Sun</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900119</meta>
+    </track>
+    <track>
+      <title>Road To Nowhere</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>3</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900120</meta>
+    </track>
+    <track>
+      <title>All My Colours</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>4</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900122</meta>
+    </track>
+    <track>
+      <title>The American</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>5</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900121</meta>
+    </track>
+    <track>
+      <title>Heaven</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>6</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900123</meta>
+    </track>
+    <track>
+      <title>Parade (feat. Barry Adamson)</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>7</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900124</meta>
+    </track>
+    <track>
+      <title>Metal</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900127</meta>
+    </track>
+    <track>
+      <title>Ca Plane Pour Moi</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>9</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900126</meta>
+    </track>
+    <track>
+      <title>Our Lips Are Sealed</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>10</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900125</meta>
+    </track>
+    <track>
+      <title>God Save The Queen</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>11</trackNum>
+      <duration>165000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900128</meta>
+    </track>
+    <track>
+      <title>Say Hello Wave Goodbye</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>12</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900129</meta>
+    </track>
+    <track>
+      <title>So Lonely</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>13</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900131</meta>
+    </track>
+    <track>
+      <title>Not Knowing</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>14</trackNum>
+      <duration>184000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900130</meta>
+    </track>
+    <track>
+      <title>Get A Grip On Yourself</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>15</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900136</meta>
+    </track>
+    <track>
+      <title>Such A Shame</title>
+      <creator>Nouvelle Vague</creator>
+      <album>3 (USA Tour Edition)</album>
+      <trackNum>16</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRT900900135</meta>
+    </track>
+    <track>
+      <title>Say It Ain't So</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Weezer</album>
+      <trackNum>1</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276501</meta>
+    </track>
+    <track>
+      <title>Marry You</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Bruno Mars</album>
+      <trackNum>3</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1150403</meta>
+    </track>
+    <track>
+      <title>Island In The Sun</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Weezer</album>
+      <trackNum>2</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276502</meta>
+    </track>
+    <track>
+      <title>Buddy Holly</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Weezer</album>
+      <trackNum>5</trackNum>
+      <duration>158000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276505</meta>
+    </track>
+    <track>
+      <title>Undone (The Sweater Song)</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Weezer</album>
+      <trackNum>8</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276508</meta>
+    </track>
+    <track>
+      <title>My Name is Jonas</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Weezer</album>
+      <trackNum>9</trackNum>
+      <duration>193000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276509</meta>
+    </track>
+    <track>
+      <title>Just The Way You Are</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Bruno Mars</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1150401</meta>
+    </track>
+    <track>
+      <title>Nothing On You</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Bruno Mars</album>
+      <trackNum>5</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">UGG7D1150405</meta>
+    </track>
+    <track>
+      <title>Just Dance</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Lady GaGa</album>
+      <trackNum>2</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1150602</meta>
+    </track>
+    <track>
+      <title>Only in Dreams</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Weezer</album>
+      <trackNum>11</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276511</meta>
+    </track>
+    <track>
+      <title>Call Me Maybe</title>
+      <creator>Piano Tribute Players</creator>
+      <album>35 Piano Pop Hits of 2012</album>
+      <trackNum>1</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1276201</meta>
+    </track>
+    <track>
+      <title>Bad Romance</title>
+      <creator>Piano Tribute Players</creator>
+      <album>Piano Tribute to Lady GaGa</album>
+      <trackNum>6</trackNum>
+      <duration>301000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USG7D1150606</meta>
+    </track>
+    <track>
+      <title>I Kissed A Girl (Live)</title>
+      <creator>Katy Perry</creator>
+      <album>Unplugged</album>
+      <trackNum>1</trackNum>
+      <duration>251000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20905182</meta>
+    </track>
+  </trackList>
+</playlist>

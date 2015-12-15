@@ -1,0 +1,100 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-08</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p5200736</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-08</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/5200736/2013-08/</meta>
+  <trackList>
+    <track>
+      <title>773 Love</title>
+      <creator>Jeremih</creator>
+      <album>773 Love</album>
+      <trackNum>1</trackNum>
+      <duration>230000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71210619</meta>
+    </track>
+    <track>
+      <title>Water Me</title>
+      <creator>FKA twigs</creator>
+      <album>Water Me</album>
+      <trackNum>1</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1300086</meta>
+    </track>
+    <track>
+      <title>Real Talk</title>
+      <creator>R. Kelly</creator>
+      <album>Double Up</album>
+      <trackNum>10</trackNum>
+      <duration>180000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI10700347</meta>
+    </track>
+    <track>
+      <title>773 Love</title>
+      <creator>Jeremih</creator>
+      <album>773 Love</album>
+      <trackNum>1</trackNum>
+      <duration>230000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71210619</meta>
+    </track>
+    <track>
+      <title>Royals</title>
+      <creator>Lorde</creator>
+      <album>The Love Club EP</album>
+      <trackNum>2</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NZUM71200031</meta>
+    </track>
+    <track>
+      <title>Recover</title>
+      <creator>CHVRCHES</creator>
+      <album>Recover - EP</album>
+      <trackNum>1</trackNum>
+      <duration>225000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZN81300001</meta>
+    </track>
+    <track>
+      <title>Cruel Intentions (Maurice Fulton remix)</title>
+      <creator>Simian Mobile Disco</creator>
+      <album>Cruel Intentions</album>
+      <trackNum>8</trackNum>
+      <duration>376000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDNH0901164</meta>
+    </track>
+    <track>
+      <title>Party Girl</title>
+      <creator>Asher Roth</creator>
+      <album>Party Girl</album>
+      <trackNum>1</trackNum>
+      <duration>260000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71204257</meta>
+    </track>
+    <track>
+      <title>Tommie Sunshine's Megasix Smash-Up</title>
+      <creator>Katy Perry</creator>
+      <album>Teenage Dream: The Complete Confection</album>
+      <trackNum>19</trackNum>
+      <duration>423000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21102805</meta>
+    </track>
+    <track>
+      <title>1st Place</title>
+      <creator>Curren$y, The Jets, Trademark Da Skydiver, Young Roddy, Mikey Rocks</creator>
+      <album>1st Place (feat. Curren$y, Trademark Da Skydiver, Young Roddy &amp; Mikey Rocks) - Single</album>
+      <trackNum>1</trackNum>
+      <duration>339000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US7SR1100125</meta>
+    </track>
+    <track>
+      <title>Turn On The Lights</title>
+      <creator>Future</creator>
+      <album>Pluto 3D</album>
+      <trackNum>5</trackNum>
+      <duration>249000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11201733</meta>
+    </track>
+  </trackList>
+</playlist>

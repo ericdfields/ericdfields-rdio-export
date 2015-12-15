@@ -1,0 +1,44 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Female Vocals</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p2596609</meta>
+  <meta rel="https://rdio.com/xspf/name">Female Vocals</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/2596609/Female_Vocals/</meta>
+  <trackList>
+    <track>
+      <title>Not The Lovin' Kind</title>
+      <creator>Nancy Sinatra</creator>
+      <album>How Does That Grab You?</album>
+      <trackNum>1</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USASE0500016</meta>
+    </track>
+    <track>
+      <title>Bang Bang (My Baby Shot Me Down)</title>
+      <creator>Nancy Sinatra</creator>
+      <album>How Does That Grab You?</album>
+      <trackNum>11</trackNum>
+      <duration>162000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USASE0500026</meta>
+    </track>
+    <track>
+      <title>Open</title>
+      <creator>Rhye</creator>
+      <album>Woman</album>
+      <trackNum>1</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71205660</meta>
+    </track>
+    <track>
+      <title>Dreams</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Rumours</album>
+      <trackNum>2</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19900178,USWB10400046</meta>
+    </track>
+  </trackList>
+</playlist>

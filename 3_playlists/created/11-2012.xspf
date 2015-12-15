@@ -1,0 +1,20 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>11-2012</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1544178</meta>
+  <meta rel="https://rdio.com/xspf/name">11-2012</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1544178/11-2012/</meta>
+  <trackList>
+    <track>
+      <title>Somewhere to Hide</title>
+      <creator>Shiny Toy Guns</creator>
+      <album>III (Deluxe)</album>
+      <trackNum>1</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDPK1207001</meta>
+    </track>
+  </trackList>
+</playlist>

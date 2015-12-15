@@ -1,0 +1,28 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>A Capella</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1403226</meta>
+  <meta rel="https://rdio.com/xspf/name">A Capella</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1403226/A_Capella/</meta>
+  <trackList>
+    <track>
+      <title>Everything In Its Right Place</title>
+      <creator>Sonos</creator>
+      <album>SONOSings</album>
+      <trackNum>2</trackNum>
+      <duration>249000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4540900002</meta>
+    </track>
+    <track>
+      <title>Love Lockdown</title>
+      <creator>The Sing-Off</creator>
+      <album>The Sing-Off: Season 3: Episode 6 - Hip Hop</album>
+      <trackNum>7</trackNum>
+      <duration>124000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11105810</meta>
+    </track>
+  </trackList>
+</playlist>

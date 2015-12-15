@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>New Jack Jazz</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1403212</meta>
+  <meta rel="https://rdio.com/xspf/name">New Jack Jazz</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1403212/New_Jack_Jazz/</meta>
+  <trackList>
+    <track>
+      <title>Maiden Voyage / Everything In Its Right Place</title>
+      <creator>Robert Glasper</creator>
+      <album>In My Element</album>
+      <trackNum>7</trackNum>
+      <duration>523000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN20600629</meta>
+    </track>
+    <track>
+      <title>School</title>
+      <creator>Calvin Harris</creator>
+      <album>18 Months</album>
+      <trackNum>11</trackNum>
+      <duration>107000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1201393</meta>
+    </track>
+    <track>
+      <title>Golden</title>
+      <creator>Hermitude</creator>
+      <album>HyperParadise</album>
+      <trackNum>10</trackNum>
+      <duration>177000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUEF00900617</meta>
+    </track>
+  </trackList>
+</playlist>

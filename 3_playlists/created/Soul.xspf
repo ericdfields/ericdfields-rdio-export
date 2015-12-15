@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Soul</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1337560</meta>
+  <meta rel="https://rdio.com/xspf/name">Soul</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1337560/Soul/</meta>
+  <trackList>
+    <track>
+      <title>I Heard It Through The Grapevine (Live)</title>
+      <creator>Marvin Gaye</creator>
+      <album>#1 Monster Hits (Re-Recorded / Remastered Versions)</album>
+      <trackNum>41</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560929237</meta>
+    </track>
+    <track>
+      <title>It's Too Late</title>
+      <creator>The Isley Brothers</creator>
+      <album>Brother, Brother, Brother</album>
+      <trackNum>7</trackNum>
+      <duration>630000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17200161</meta>
+    </track>
+    <track>
+      <title>Romance Without Finance (Single Version / Mono)</title>
+      <creator>The Temptations</creator>
+      <album>The Complete Motown Singles, Volume 1: 1959-1961</album>
+      <trackNum>105</trackNum>
+      <duration>169000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMO16100003</meta>
+    </track>
+  </trackList>
+</playlist>

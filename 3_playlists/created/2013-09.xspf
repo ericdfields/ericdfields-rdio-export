@@ -1,0 +1,140 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-09</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p5985340</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-09</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/5985340/2013-09/</meta>
+  <trackList>
+    <track>
+      <title>Safe and Sound</title>
+      <creator>Capital Cities</creator>
+      <album>In A Tidal Wave Of Mystery</album>
+      <trackNum>1</trackNum>
+      <duration>193000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21203108</meta>
+    </track>
+    <track>
+      <title>Don't Fuck With My Money</title>
+      <creator>Penguin Prison</creator>
+      <album>Penguin Prison</album>
+      <trackNum>1</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBENL1000440</meta>
+    </track>
+    <track>
+      <title>Primetime (feat. Miguel)</title>
+      <creator>Janelle Monáe</creator>
+      <album>The Electric Lady</album>
+      <trackNum>6</trackNum>
+      <duration>280000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBB41300040</meta>
+    </track>
+    <track>
+      <title>The Way</title>
+      <creator>Ariana Grande</creator>
+      <album>Yours Truly</album>
+      <trackNum>8</trackNum>
+      <duration>227000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71302939</meta>
+    </track>
+    <track>
+      <title>Right There</title>
+      <creator>Ariana Grande</creator>
+      <album>Yours Truly</album>
+      <trackNum>3</trackNum>
+      <duration>247000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71310262</meta>
+    </track>
+    <track>
+      <title>Keep You</title>
+      <creator>Class Actress</creator>
+      <album>Rapprocher</album>
+      <trackNum>1</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US22N1106501,FR6V81825612</meta>
+    </track>
+    <track>
+      <title>Saturday Night Ate Our Lives</title>
+      <creator>Whitey</creator>
+      <album>Saturday Night Ate Our Lives</album>
+      <trackNum>1</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBR9M1200036</meta>
+    </track>
+    <track>
+      <title>Flood</title>
+      <creator>Hermitude</creator>
+      <album>HyperParadise</album>
+      <trackNum>12</trackNum>
+      <duration>207000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUEF00900619</meta>
+    </track>
+    <track>
+      <title>Golden</title>
+      <creator>Hermitude</creator>
+      <album>HyperParadise</album>
+      <trackNum>10</trackNum>
+      <duration>177000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUEF00900617</meta>
+    </track>
+    <track>
+      <title>Gold</title>
+      <creator>Bondax</creator>
+      <album>Gold</album>
+      <trackNum>1</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1202463</meta>
+    </track>
+    <track>
+      <title>Don't Save Me</title>
+      <creator>Haim</creator>
+      <album>Don't Save Me</album>
+      <trackNum>1</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11206550,GBUM71207022</meta>
+    </track>
+    <track>
+      <title>Lungs</title>
+      <creator>CHVRCHES</creator>
+      <album>The Bones Of What You Believe (Special Edition)</album>
+      <trackNum>10</trackNum>
+      <duration>182000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZN81300026</meta>
+    </track>
+    <track>
+      <title>Global Concepts</title>
+      <creator>Robert DeLong</creator>
+      <album>Just Movement</album>
+      <trackNum>2</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USYAH1200404,USYAH1200376</meta>
+    </track>
+    <track>
+      <title>Perfect</title>
+      <creator>Robert DeLong</creator>
+      <album>Just Movement</album>
+      <trackNum>10</trackNum>
+      <duration>382000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USYAH1200384</meta>
+    </track>
+    <track>
+      <title>Lost In My Bedroom</title>
+      <creator>Sky Ferreira</creator>
+      <album>Ghost EP</album>
+      <trackNum>2</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21202436</meta>
+    </track>
+    <track>
+      <title>Marijuana</title>
+      <creator>Chrome Sparks</creator>
+      <album>Sparks EP</album>
+      <trackNum>2</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMHHY1300002</meta>
+    </track>
+  </trackList>
+</playlist>

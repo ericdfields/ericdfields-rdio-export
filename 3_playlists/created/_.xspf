@@ -1,0 +1,28 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>?</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p10817966</meta>
+  <meta rel="https://rdio.com/xspf/name">?</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/10817966/_/</meta>
+  <trackList>
+    <track>
+      <title>Problem</title>
+      <creator>Ariana Grande</creator>
+      <album>Problem</album>
+      <trackNum>1</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71411603,USUM71405403</meta>
+    </track>
+    <track>
+      <title>Replay</title>
+      <creator>Zendaya</creator>
+      <album>Zendaya</album>
+      <trackNum>1</trackNum>
+      <duration>209000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHR11334762</meta>
+    </track>
+  </trackList>
+</playlist>

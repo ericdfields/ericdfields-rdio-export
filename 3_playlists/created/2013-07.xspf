@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-07</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p4303186</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-07</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/4303186/2013-07/</meta>
+  <trackList>
+    <track>
+      <title>Highway</title>
+      <creator>Smoke Dza</creator>
+      <album>Substance Abuse</album>
+      <trackNum>5</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHKR0940305</meta>
+    </track>
+    <track>
+      <title>Can I Live feat. Mac Miller</title>
+      <creator>Casey Veggies</creator>
+      <album>Sleeping in Class</album>
+      <trackNum>15</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3DF1115171</meta>
+    </track>
+    <track>
+      <title>One of Those Nights (Clean Version)</title>
+      <creator>Juicy J</creator>
+      <album>One of Those Nights</album>
+      <trackNum>1</trackNum>
+      <duration>256000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11301299,USSM11301298</meta>
+    </track>
+    <track>
+      <title>Cloud Body (prod. by Grown Folk)</title>
+      <creator>Main Attrakionz</creator>
+      <album>Bossalinis &amp; Fooliyones</album>
+      <trackNum>17</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBQU1200081</meta>
+    </track>
+    <track>
+      <title>No Sleep</title>
+      <creator>Wiz Khalifa</creator>
+      <album>Rolling Papers</album>
+      <trackNum>9</trackNum>
+      <duration>191000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21100295</meta>
+    </track>
+    <track>
+      <title>Medicated (feat. Chevy Woods &amp; Juicy J)</title>
+      <creator>Wiz Khalifa</creator>
+      <album>O.N.I.F.C. (Deluxe)</album>
+      <trackNum>17</trackNum>
+      <duration>331000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21205616</meta>
+    </track>
+    <track>
+      <title>Hard on Me</title>
+      <creator>Robby Hunter Band</creator>
+      <album>Hard on Me</album>
+      <trackNum>1</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABM1384652</meta>
+    </track>
+    <track>
+      <title>Work</title>
+      <creator>Iggy Azalea</creator>
+      <album>Work</album>
+      <trackNum>1</trackNum>
+      <duration>223000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71301810,GBUM71301347</meta>
+    </track>
+    <track>
+      <title>Secondary</title>
+      <creator>RL Grime</creator>
+      <album>High Beams</album>
+      <trackNum>3</trackNum>
+      <duration>186000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1300290</meta>
+    </track>
+    <track>
+      <title>Day 1</title>
+      <creator>Ta-Ku</creator>
+      <album>50 Days for Dilla, Vol. 1</album>
+      <trackNum>1</trackNum>
+      <duration>123000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBKPL1251704</meta>
+    </track>
+    <track>
+      <title>Trilla G</title>
+      <creator>Jonwayne</creator>
+      <album>Bowser</album>
+      <trackNum>5</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US25X1082914</meta>
+    </track>
+    <track>
+      <title>How Soon Is Now?</title>
+      <creator>The Smiths</creator>
+      <album>The Sound Of The Smiths [Deluxe Edition]</album>
+      <trackNum>7</trackNum>
+      <duration>406000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCRL0800322</meta>
+    </track>
+    <track>
+      <title>Makossa Rock</title>
+      <creator>Deadline</creator>
+      <album>Change The Beat - The Celluloid Records Story 1979 - 1987</album>
+      <trackNum>11</trackNum>
+      <duration>665000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEG931390679</meta>
+    </track>
+    <track>
+      <title>Kaleidoscope Love</title>
+      <creator>AlunaGeorge</creator>
+      <album>Body Music</album>
+      <trackNum>5</trackNum>
+      <duration>233000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR91312805</meta>
+    </track>
+  </trackList>
+</playlist>

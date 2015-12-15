@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-05</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p3275955</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-05</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/3275955/2013-05/</meta>
+  <trackList>
+    <track>
+      <title>You</title>
+      <creator>Gold Panda</creator>
+      <album>Lucky Shiner</album>
+      <trackNum>1</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDNH1000136</meta>
+    </track>
+    <track>
+      <title>Remember You (feat. The Weeknd)</title>
+      <creator>Wiz Khalifa</creator>
+      <album>Remember You (feat. The Weeknd)</album>
+      <trackNum>1</trackNum>
+      <duration>289000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21203908</meta>
+    </track>
+    <track>
+      <title>Blurred Lines</title>
+      <creator>Robin Thicke</creator>
+      <album>Blurred Lines</album>
+      <trackNum>1</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71302150,USUM71308100</meta>
+    </track>
+    <track>
+      <title>Breaststroke</title>
+      <creator>Mathemagic</creator>
+      <album>Mathemagic EP</album>
+      <trackNum>5</trackNum>
+      <duration>286000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAP431000649</meta>
+    </track>
+    <track>
+      <title>Snap Backs &amp; Tattoos</title>
+      <creator>Driicky Graham</creator>
+      <album>Snap Backs &amp; Tattoos</album>
+      <trackNum>1</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKO11200828,USKO11200840</meta>
+    </track>
+    <track>
+      <title>All You're Waiting For (feat. Nancy Whang)</title>
+      <creator>Classixx</creator>
+      <album>Hanging Gardens</album>
+      <trackNum>2</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USD8D1313002</meta>
+    </track>
+    <track>
+      <title>Hannah Hunt</title>
+      <creator>Vampire Weekend</creator>
+      <album>Modern Vampires of the City</album>
+      <trackNum>6</trackNum>
+      <duration>238000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1300006</meta>
+    </track>
+    <track>
+      <title>Holding On</title>
+      <creator>Classixx</creator>
+      <album>Holding On - Single</album>
+      <trackNum>1</trackNum>
+      <duration>380000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USD8D1239001</meta>
+    </track>
+    <track>
+      <title>House Of Jealous Lovers</title>
+      <creator>The Rapture</creator>
+      <album>Echoes</album>
+      <trackNum>6</trackNum>
+      <duration>305000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF080300283</meta>
+    </track>
+    <track>
+      <title>Harlem</title>
+      <creator>Bill Withers</creator>
+      <album>Just As I Am</album>
+      <trackNum>1</trackNum>
+      <duration>203000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10105623</meta>
+    </track>
+  </trackList>
+</playlist>

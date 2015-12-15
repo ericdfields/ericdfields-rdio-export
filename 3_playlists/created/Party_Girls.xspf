@@ -1,0 +1,140 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Party Girls</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p6781179</meta>
+  <meta rel="https://rdio.com/xspf/name">Party Girls</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/6781179/Party_Girls/</meta>
+  <trackList>
+    <track>
+      <title>Till the World Ends</title>
+      <creator>Britney Spears</creator>
+      <album>Femme Fatale (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI11100074</meta>
+    </track>
+    <track>
+      <title>Die Young</title>
+      <creator>Ke$ha</creator>
+      <album>Warrior (Deluxe Version)</album>
+      <trackNum>2</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11201008</meta>
+    </track>
+    <track>
+      <title>Applause</title>
+      <creator>Lady Gaga</creator>
+      <album>Applause</album>
+      <trackNum>1</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71310271</meta>
+    </track>
+    <track>
+      <title>Toxic</title>
+      <creator>Britney Spears</creator>
+      <album>In The Zone</album>
+      <trackNum>6</trackNum>
+      <duration>201000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI10301005</meta>
+    </track>
+    <track>
+      <title>E.T. (feat. Kanye West)</title>
+      <creator>Katy Perry</creator>
+      <album>Teenage Dream: The Complete Confection</album>
+      <trackNum>17</trackNum>
+      <duration>230000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21100386</meta>
+    </track>
+    <track>
+      <title>Part Of Me</title>
+      <creator>Katy Perry</creator>
+      <album>Teenage Dream: The Complete Confection</album>
+      <trackNum>14</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21102809</meta>
+    </track>
+    <track>
+      <title>Don't Stop The Music</title>
+      <creator>Rihanna</creator>
+      <album>Good Girl Gone Bad: Reloaded</album>
+      <trackNum>3</trackNum>
+      <duration>267000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70734700</meta>
+    </track>
+    <track>
+      <title>Just Dance</title>
+      <creator>Lady Gaga</creator>
+      <album>The Fame</album>
+      <trackNum>1</trackNum>
+      <duration>242000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70807646</meta>
+    </track>
+    <track>
+      <title>I Wanna Go</title>
+      <creator>Britney Spears</creator>
+      <album>Femme Fatale (Deluxe Version)</album>
+      <trackNum>4</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI11100095</meta>
+    </track>
+    <track>
+      <title>We Found Love</title>
+      <creator>Rihanna</creator>
+      <album>We Found Love</album>
+      <trackNum>1</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71115507</meta>
+    </track>
+    <track>
+      <title>S&amp;M</title>
+      <creator>Rihanna</creator>
+      <album>Loud</album>
+      <trackNum>1</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71026591</meta>
+    </track>
+    <track>
+      <title>Only Girl (In The World)</title>
+      <creator>Rihanna</creator>
+      <album>Loud</album>
+      <trackNum>5</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71023200</meta>
+    </track>
+    <track>
+      <title>Promiscuous</title>
+      <creator>Nelly Furtado</creator>
+      <album>Loose</album>
+      <trackNum>4</trackNum>
+      <duration>242000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70603473</meta>
+    </track>
+    <track>
+      <title>Maneater</title>
+      <creator>Nelly Furtado</creator>
+      <album>Loose</album>
+      <trackNum>2</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70601449</meta>
+    </track>
+    <track>
+      <title>Waking Up In Vegas</title>
+      <creator>Katy Perry</creator>
+      <album>One Of The Boys</album>
+      <trackNum>3</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20802541</meta>
+    </track>
+    <track>
+      <title>Single Ladies (Put a Ring on It)</title>
+      <creator>Beyoncé</creator>
+      <album>I AM...SASHA FIERCE</album>
+      <trackNum>9</trackNum>
+      <duration>193000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10803760</meta>
+    </track>
+  </trackList>
+</playlist>

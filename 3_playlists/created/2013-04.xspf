@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-04</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p2774690</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-04</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/2774690/2013-04/</meta>
+  <trackList>
+    <track>
+      <title>If You're Fucking</title>
+      <creator>Reggie Watts</creator>
+      <album>If You're Fucking</album>
+      <trackNum>1</trackNum>
+      <duration>200000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCGJ1346589</meta>
+    </track>
+    <track>
+      <title>Dedication To My Ex (Miss That)</title>
+      <creator>Lloyd</creator>
+      <album>King Of Hearts (Deluxe Explicit Version)</album>
+      <trackNum>2</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71109709</meta>
+    </track>
+    <track>
+      <title>Turn All The Lights On</title>
+      <creator>T-Pain</creator>
+      <album>rEVOLVEr</album>
+      <trackNum>14</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11101042,USRC11101041</meta>
+    </track>
+  </trackList>
+</playlist>

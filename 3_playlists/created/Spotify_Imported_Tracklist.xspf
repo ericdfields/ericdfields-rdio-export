@@ -1,0 +1,372 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Spotify Imported Tracklist</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1787139</meta>
+  <meta rel="https://rdio.com/xspf/name">Spotify Imported Tracklist</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1787139/Spotify_Imported_Tracklist/</meta>
+  <trackList>
+    <track>
+      <title>B.O.B.</title>
+      <creator>Outkast</creator>
+      <album>Stankonia</album>
+      <trackNum>11</trackNum>
+      <duration>304000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLF20000442</meta>
+    </track>
+    <track>
+      <title>The Symphony</title>
+      <creator>Marley Marl, Masta Ace, Craig G, Kool G Rap, Big Daddy Kane</creator>
+      <album>Best of Old School Hip-Hop</album>
+      <trackNum>7</trackNum>
+      <duration>365000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCRP1101357</meta>
+    </track>
+    <track>
+      <title>That's The Joint</title>
+      <creator>Funky 4 + 1</creator>
+      <album>The Sugar Hill Records Story</album>
+      <trackNum>12</trackNum>
+      <duration>562000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10903025</meta>
+    </track>
+    <track>
+      <title>Push It</title>
+      <creator>Salt-N-Pepa</creator>
+      <album>The Best Of Salt-N-Pepa 20th Century Masters The Millennium Collection</album>
+      <trackNum>1</trackNum>
+      <duration>269000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR20180482</meta>
+    </track>
+    <track>
+      <title>Lost Ones</title>
+      <creator>Lauryn Hill</creator>
+      <album>The Miseducation of Lauryn Hill</album>
+      <trackNum>2</trackNum>
+      <duration>334000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19802471</meta>
+    </track>
+    <track>
+      <title>Me, Myself &amp; I</title>
+      <creator>De La Soul</creator>
+      <album>Classic Hip-Hop</album>
+      <trackNum>4</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCRP1101314</meta>
+    </track>
+    <track>
+      <title>South Bronx</title>
+      <creator>Boogie Down Productions</creator>
+      <album>Criminal Minded</album>
+      <trackNum>2</trackNum>
+      <duration>311000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFZH0600489</meta>
+    </track>
+    <track>
+      <title>The Breaks</title>
+      <creator>Kurtis Blow</creator>
+      <album>The Best Of Kurtis Blow</album>
+      <trackNum>1</trackNum>
+      <duration>469000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPR38000025</meta>
+    </track>
+    <track>
+      <title>My Name Is</title>
+      <creator>Eminem</creator>
+      <album>Curtain Call</album>
+      <trackNum>4</trackNum>
+      <duration>269000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR19902059</meta>
+    </track>
+    <track>
+      <title>Get U Freak On</title>
+      <creator>Missy Elliot</creator>
+      <album>Ouragan (By Cut Killer)</album>
+      <trackNum>10</trackNum>
+      <duration>156000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V81445504</meta>
+    </track>
+    <track>
+      <title>It Was A Good Day (Album Version)</title>
+      <creator>Ice Cube</creator>
+      <album>The Essentials</album>
+      <trackNum>6</trackNum>
+      <duration>260000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPO19250006</meta>
+    </track>
+    <track>
+      <title>Rosa Parks</title>
+      <creator>Outkast</creator>
+      <album>Aquemini</album>
+      <trackNum>3</trackNum>
+      <duration>324000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLF20000410</meta>
+    </track>
+    <track>
+      <title>Shook Ones, Pt. II</title>
+      <creator>Mobb Deep</creator>
+      <album>The Infamous</album>
+      <trackNum>15</trackNum>
+      <duration>326000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC19401295</meta>
+    </track>
+    <track>
+      <title>P.S.K. 'What Does It Mean'?</title>
+      <creator>Schoolly d</creator>
+      <album>Best Of Schoolly D</album>
+      <trackNum>1</trackNum>
+      <duration>389000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI10300873</meta>
+    </track>
+    <track>
+      <title>99 Problems</title>
+      <creator>Jay-Z</creator>
+      <album>The Black Album 2</album>
+      <trackNum>9</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20301460</meta>
+    </track>
+    <track>
+      <title>Jesus Walks (Live Version)</title>
+      <creator>Kanye West</creator>
+      <album>Jesus Walks (Live Version)</album>
+      <trackNum>1</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20400791</meta>
+    </track>
+    <track>
+      <title>N.Y. State of Mind</title>
+      <creator>Nas</creator>
+      <album>Greatest Hits</album>
+      <trackNum>5</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10017352</meta>
+    </track>
+    <track>
+      <title>Hypnotize (Soundtrack Version)</title>
+      <creator>NOTORIOUS Music From and Inspired by the Original Motion Picture</creator>
+      <album>NOTORIOUS Music From and Inspired by the Original Motion Picture</album>
+      <trackNum>2</trackNum>
+      <duration>229000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBB40802030</meta>
+    </track>
+    <track>
+      <title>Mama Said Knock You Out</title>
+      <creator>LL Cool J</creator>
+      <album>Mama Said Knock You Out</album>
+      <trackNum>8</trackNum>
+      <duration>293000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20110715</meta>
+    </track>
+    <track>
+      <title>Lose Yourself</title>
+      <creator>Eminem</creator>
+      <album>Lose Yourself</album>
+      <trackNum>1</trackNum>
+      <duration>320000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR10211559</meta>
+    </track>
+    <track>
+      <title>Flava In Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)</title>
+      <creator>Craig Mack</creator>
+      <album>Flava In Ya Ear Remix</album>
+      <trackNum>2</trackNum>
+      <duration>302000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBB40581031</meta>
+    </track>
+    <track>
+      <title>Ain't No Half-Steppin (Originally Performed By Big Daddy Kane)</title>
+      <creator>Liquid Audio</creator>
+      <album>Old School Rap Instrumentals Vol. 4</album>
+      <trackNum>3</trackNum>
+      <duration>138000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJCH1200681</meta>
+    </track>
+    <track>
+      <title>It Takes Two</title>
+      <creator>Rob Base, DJ EZ Rock</creator>
+      <album>Profilin': The Hits</album>
+      <trackNum>1</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAR19900063</meta>
+    </track>
+    <track>
+      <title>I Know You Got Soul</title>
+      <creator>Eric B. &amp; Rakim</creator>
+      <album>Paid In Full</album>
+      <trackNum>4</trackNum>
+      <duration>288000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR28700018</meta>
+    </track>
+    <track>
+      <title>Strictly Business</title>
+      <creator>EPMD</creator>
+      <album>Strictly Business</album>
+      <trackNum>1</trackNum>
+      <duration>287000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPO18800007</meta>
+    </track>
+    <track>
+      <title>Rock The Bells</title>
+      <creator>LL Cool J</creator>
+      <album>Radio</album>
+      <trackNum>7</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ28500006</meta>
+    </track>
+    <track>
+      <title>In Da Club</title>
+      <creator>50 Cent</creator>
+      <album>Get Rich Or Die Tryin'</album>
+      <trackNum>5</trackNum>
+      <duration>193000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR10300033</meta>
+    </track>
+    <track>
+      <title>Paul Revere</title>
+      <creator>Beastie Boys</creator>
+      <album>Licensed To Ill</album>
+      <trackNum>9</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ28600009</meta>
+    </track>
+    <track>
+      <title>Dear Mama (Remix (Explicit))</title>
+      <creator>2Pac</creator>
+      <album>The Best of 2Pac - Pt. 1: Thug</album>
+      <trackNum>10</trackNum>
+      <duration>329000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70761014</meta>
+    </track>
+    <track>
+      <title>Peter Piper</title>
+      <creator>Run-D.M.C.</creator>
+      <album>Ultimate Run Dmc</album>
+      <trackNum>9</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAR18600165</meta>
+    </track>
+    <track>
+      <title>Big Pimpin'</title>
+      <creator>Jay-Z</creator>
+      <album>The Hits Collection Volume One (Deluxe Edition (Explicit))</album>
+      <trackNum>14</trackNum>
+      <duration>284000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ29905922</meta>
+    </track>
+    <track>
+      <title>Fuck Tha Police</title>
+      <creator>N.W.A</creator>
+      <album>Straight Outta Compton (2002 - Remaster)</album>
+      <trackNum>2</trackNum>
+      <duration>345000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPO10000873</meta>
+    </track>
+    <track>
+      <title>Rebel Without A Pause</title>
+      <creator>Public Enemy</creator>
+      <album>It Takes A Nation Of Millions To Hold Us Back</album>
+      <trackNum>14</trackNum>
+      <duration>303000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ28800026</meta>
+    </track>
+    <track>
+      <title>La-Di-Da-Di</title>
+      <creator>Slick Rick</creator>
+      <album>The Art Of Storytelling</album>
+      <trackNum>23</trackNum>
+      <duration>277000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ29900025</meta>
+    </track>
+    <track>
+      <title>They Reminisce Over You (T.R.O.Y.)</title>
+      <creator>C.L. Smooth, Pete Rock</creator>
+      <album>Classic Hip-Hop</album>
+      <trackNum>11</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCRP1101321</meta>
+    </track>
+    <track>
+      <title>C.R.E.A.M.</title>
+      <creator>Wu-Tang Clan</creator>
+      <album>Enter The Wu-Tang</album>
+      <trackNum>8</trackNum>
+      <duration>252000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC19300133</meta>
+    </track>
+    <track>
+      <title>Paid In Full</title>
+      <creator>Eric B. &amp; Rakim</creator>
+      <album>Paid In Full (Deluxe Edition)</album>
+      <trackNum>6</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR28700020</meta>
+    </track>
+    <track>
+      <title>Dope Man (Edited) (2002 Digital Remaster) (Edited;2002 Digital Remaster)</title>
+      <creator>N.W.A</creator>
+      <album>Straight Outta Compton</album>
+      <trackNum>10</trackNum>
+      <duration>349000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPO10600009</meta>
+    </track>
+    <track>
+      <title>Juicy</title>
+      <creator>The Notorious B.I.G.</creator>
+      <album>Ready To Die The Remaster</album>
+      <trackNum>10</trackNum>
+      <duration>302000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBB40580814</meta>
+    </track>
+    <track>
+      <title>Fight The Power</title>
+      <creator>Public Enemy</creator>
+      <album>Def Jam Music Group Tenth Year Anniversary Box Set</album>
+      <trackNum>30</trackNum>
+      <duration>278000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20200160</meta>
+    </track>
+    <track>
+      <title>Mind Playing Tricks on Me</title>
+      <creator>Geto Boys</creator>
+      <album>Rap a Lot Greatest Hits</album>
+      <trackNum>1</trackNum>
+      <duration>311000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZXT1019221</meta>
+    </track>
+    <track>
+      <title>Sucker M.C.'s (Krush-Groove 1)</title>
+      <creator>Run-D.M.C.</creator>
+      <album>Discover Beyond</album>
+      <trackNum>5</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAR19900965</meta>
+    </track>
+    <track>
+      <title>Don't Stop...Planet Rock (Original Vocal Version)</title>
+      <creator>Afrika Bambaataa</creator>
+      <album>Rhino Hi-Five: Afrika Bambaataa</album>
+      <trackNum>1</trackNum>
+      <duration>382000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USTB10250008</meta>
+    </track>
+    <track>
+      <title>Rapper's Delight</title>
+      <creator>The Sugarhill Gang</creator>
+      <album>Rhino Hi-Five: The Sugarhill Gang</album>
+      <trackNum>1</trackNum>
+      <duration>427000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10403145</meta>
+    </track>
+    <track>
+      <title>Scorpio</title>
+      <creator>Grandmaster Flash &amp; The Furious Five</creator>
+      <album>The Message</album>
+      <trackNum>3</trackNum>
+      <duration>296000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10404911</meta>
+    </track>
+  </trackList>
+</playlist>

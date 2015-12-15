@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-06</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p3735948</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-06</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/3735948/2013-06/</meta>
+  <trackList>
+    <track>
+      <title>Love Souvenir</title>
+      <creator>Calvin Harris</creator>
+      <album>I Created Disco</album>
+      <trackNum>13</trackNum>
+      <duration>259000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL0602046</meta>
+    </track>
+    <track>
+      <title>It All Feels Right</title>
+      <creator>Washed Out</creator>
+      <album>It All Feels Right - Single</album>
+      <trackNum>1</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB1305502</meta>
+    </track>
+    <track>
+      <title>Blair Witch</title>
+      <creator>Surfer Blood</creator>
+      <album>Pythons</album>
+      <trackNum>7</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11300519</meta>
+    </track>
+  </trackList>
+</playlist>

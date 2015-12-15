@@ -1,0 +1,532 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Holiday Party 2010</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p30328</meta>
+  <meta rel="https://rdio.com/xspf/name">Holiday Party 2010</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/30328/Holiday_Party_2010/</meta>
+  <trackList>
+    <track>
+      <title>Dundadeova</title>
+      <creator>Dzihan &amp; Kamien</creator>
+      <album>Destination Lounge San Francisco - Relax</album>
+      <trackNum>8</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560973161</meta>
+    </track>
+    <track>
+      <title>All That We Perceive</title>
+      <creator>Thievery Corporation</creator>
+      <album>The Richest Man In Babylon</album>
+      <trackNum>6</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USESL0306006</meta>
+    </track>
+    <track>
+      <title>It's The Most Wonderful Time Of The Year (a shrift remix)</title>
+      <creator>Andy Williams</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>1</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300508</meta>
+    </track>
+    <track>
+      <title>O Tannenbaum</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas [Expanded] (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>312000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFI80600048</meta>
+    </track>
+    <track>
+      <title>Happy Holiday (Beef Wellington Remix)</title>
+      <creator>Bing Crosby</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>2</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300509</meta>
+    </track>
+    <track>
+      <title>Jingle Bells (Dan The Automator Remix)</title>
+      <creator>Dean Martin</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>3</trackNum>
+      <duration>169000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300510</meta>
+    </track>
+    <track>
+      <title>1234 (Van She Remix)</title>
+      <creator>Feist</creator>
+      <album>The Reminder Deluxe EP</album>
+      <trackNum>1</trackNum>
+      <duration>310000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRUM70600547</meta>
+    </track>
+    <track>
+      <title>I've Got My Love To Keep Me Warm (STUHR Remix)</title>
+      <creator>Kay Starr</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>4</trackNum>
+      <duration>205000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300511</meta>
+    </track>
+    <track>
+      <title>Stiff Jazz (Zündapp Dub)</title>
+      <creator>Dzihan &amp; Kamien</creator>
+      <album>dZihan &amp; Kamien Remixed</album>
+      <trackNum>2</trackNum>
+      <duration>386000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEN920400138</meta>
+    </track>
+    <track>
+      <title>Telephone</title>
+      <creator>Lady Gaga</creator>
+      <album>The Fame Monster</album>
+      <trackNum>6</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70905541</meta>
+    </track>
+    <track>
+      <title>Joy To The World (Mocean Worker Remix)</title>
+      <creator>The Cathedral Brass</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>5</trackNum>
+      <duration>246000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300512</meta>
+    </track>
+    <track>
+      <title>Winter Wonderland (Rise Ashen's Brazilian Beach Mix)</title>
+      <creator>Johnny Mercer</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>6</trackNum>
+      <duration>224000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300513</meta>
+    </track>
+    <track>
+      <title>Sound The Alarm</title>
+      <creator>Thievery Corporation</creator>
+      <album>Radio Retaliation</album>
+      <trackNum>1</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USESL0814001</meta>
+    </track>
+    <track>
+      <title>What Child Is This</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas [Expanded] (Remastered)</album>
+      <trackNum>2</trackNum>
+      <duration>143000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFI80600049</meta>
+    </track>
+    <track>
+      <title>Merry Christmas, Baby (MNO remix)</title>
+      <creator>Charles Brown</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>7</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300514</meta>
+    </track>
+    <track>
+      <title>The Nutcracker Suite (Baz Kuts Breaks Mix)</title>
+      <creator>Berlín Symphony Orchestra</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>8</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300515</meta>
+    </track>
+    <track>
+      <title>Lebanese Blonde</title>
+      <creator>Thievery Corporation</creator>
+      <album>The Mirror Conspiracy</album>
+      <trackNum>4</trackNum>
+      <duration>290000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USESL0003304,GBAFL9800206</meta>
+    </track>
+    <track>
+      <title>Jingle Bells (Robbie Hardkiss Remix)</title>
+      <creator>Duke Ellington</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>10</trackNum>
+      <duration>233000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300517</meta>
+    </track>
+    <track>
+      <title>Linus &amp; Lucy</title>
+      <creator>Vince Guaraldi Trio</creator>
+      <album>A Charlie Brown Christmas [Expanded] (Remastered)</album>
+      <trackNum>4</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFI80600051</meta>
+    </track>
+    <track>
+      <title>Baby, It's Cold Outside (Mulato Beat Remix) (Mulato Beat remix)</title>
+      <creator>Louis Armstrong</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>9</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300516</meta>
+    </track>
+    <track>
+      <title>Basmati</title>
+      <creator>Dzihan &amp; Kamien</creator>
+      <album>Gran Riserva</album>
+      <trackNum>2</trackNum>
+      <duration>328000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEN920200051</meta>
+    </track>
+    <track>
+      <title>The First Noel (Attaboy House Party Mix)</title>
+      <creator>Bing Crosby</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>11</trackNum>
+      <duration>317000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300518</meta>
+    </track>
+    <track>
+      <title>The Christmas Song (Michael Kessler Open Fire Mix)</title>
+      <creator>Mel Tormé</creator>
+      <album>Christmas Remixed - Holiday Classics Re-Grooved</album>
+      <trackNum>12</trackNum>
+      <duration>224000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US6DR0300519</meta>
+    </track>
+    <track>
+      <title>Heaven's Gonna Burn Your Eyes</title>
+      <creator>Thievery Corporation</creator>
+      <album>The Richest Man In Babylon</album>
+      <trackNum>1</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USESL0306001</meta>
+    </track>
+    <track>
+      <title>Get A Move On!</title>
+      <creator>Mr. Scruff</creator>
+      <album>Keep It Unreal</album>
+      <trackNum>3</trackNum>
+      <duration>456000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB9900510</meta>
+    </track>
+    <track>
+      <title>Bang Bang Bang</title>
+      <creator>Mark Ronson, The Business Intl.</creator>
+      <album>Record Collection</album>
+      <trackNum>1</trackNum>
+      <duration>234000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1001209</meta>
+    </track>
+    <track>
+      <title>Animal</title>
+      <creator>Miike Snow</creator>
+      <album>Miike Snow</album>
+      <trackNum>1</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL0900399,USCJ80900254</meta>
+    </track>
+    <track>
+      <title>Stylo (feat. Mos Def and Bobby Womack)</title>
+      <creator>Gorillaz</creator>
+      <album>Plastic Beach</album>
+      <trackNum>5</trackNum>
+      <duration>273000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0903021</meta>
+    </track>
+    <track>
+      <title>Fuck You</title>
+      <creator>Cee-Lo</creator>
+      <album>The Lady Killer</album>
+      <trackNum>3</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21001768</meta>
+    </track>
+    <track>
+      <title>Cellphone's Dead</title>
+      <creator>Beck</creator>
+      <album>The Information</album>
+      <trackNum>3</trackNum>
+      <duration>286000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70607766</meta>
+    </track>
+    <track>
+      <title>The High Road</title>
+      <creator>Broken Bells</creator>
+      <album>Broken Bells</album>
+      <trackNum>1</trackNum>
+      <duration>232000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10906065</meta>
+    </track>
+    <track>
+      <title>Bulletproof</title>
+      <creator>La Roux</creator>
+      <album>La Roux</album>
+      <trackNum>4</trackNum>
+      <duration>206000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70903779</meta>
+    </track>
+    <track>
+      <title>Dance Yrself Clean</title>
+      <creator>LCD Soundsystem</creator>
+      <album>This Is Happening</album>
+      <trackNum>1</trackNum>
+      <duration>536000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4GE1000019</meta>
+    </track>
+    <track>
+      <title>All Of The Lights</title>
+      <creator>Kanye West</creator>
+      <album>My Beautiful Dark Twisted Fantasy</album>
+      <trackNum>5</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71027273</meta>
+    </track>
+    <track>
+      <title>Alejandro</title>
+      <creator>Lady Gaga</creator>
+      <album>The Fame Monster</album>
+      <trackNum>2</trackNum>
+      <duration>277000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70905526</meta>
+    </track>
+    <track>
+      <title>Like A G6</title>
+      <creator>Far East Movement</creator>
+      <album>Free Wired</album>
+      <trackNum>2</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71008138</meta>
+    </track>
+    <track>
+      <title>Dynamite</title>
+      <creator>Taio Cruz</creator>
+      <album>Rokstarr</album>
+      <trackNum>1</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71003721</meta>
+    </track>
+    <track>
+      <title>Fire Burning (Album Version)</title>
+      <creator>Sean Kingston</creator>
+      <album>Tomorrow</album>
+      <trackNum>3</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10902107</meta>
+    </track>
+    <track>
+      <title>Only Girl (In The World)</title>
+      <creator>Rihanna</creator>
+      <album>Loud</album>
+      <trackNum>5</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71023200</meta>
+    </track>
+    <track>
+      <title>Anyway You Choose To Give It</title>
+      <creator>The Black Ghosts</creator>
+      <album>The Black Ghosts</album>
+      <trackNum>2</trackNum>
+      <duration>218000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEFR0700931</meta>
+    </track>
+    <track>
+      <title>Dancing On My Own</title>
+      <creator>Robyn</creator>
+      <album>Body Talk Pt. 1</album>
+      <trackNum>3</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWKZ1000003</meta>
+    </track>
+    <track>
+      <title>Break Your Heart</title>
+      <creator>Taio Cruz</creator>
+      <album>Rokstarr</album>
+      <trackNum>2</trackNum>
+      <duration>186000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71003723</meta>
+    </track>
+    <track>
+      <title>Rude Boy</title>
+      <creator>Rihanna</creator>
+      <album>Rated R</album>
+      <trackNum>8</trackNum>
+      <duration>223000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70912459</meta>
+    </track>
+    <track>
+      <title>Bad Romance</title>
+      <creator>Lady Gaga</creator>
+      <album>The Fame Monster</album>
+      <trackNum>1</trackNum>
+      <duration>294000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70918596</meta>
+    </track>
+    <track>
+      <title>Imma Be</title>
+      <creator>The Black Eyed Peas</creator>
+      <album>THE E.N.D. (THE ENERGY NEVER DIES)</album>
+      <trackNum>4</trackNum>
+      <duration>257000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70967900</meta>
+    </track>
+    <track>
+      <title>Strobe (Club Edit)</title>
+      <creator>deadmau5</creator>
+      <album>Strobe</album>
+      <trackNum>2</trackNum>
+      <duration>381000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBTDG0900153</meta>
+    </track>
+    <track>
+      <title>Paper Planes (DFA Remix)</title>
+      <creator>M.I.A.</creator>
+      <album>Slumdog Millionaire - Music From The Motion Picture</album>
+      <trackNum>5</trackNum>
+      <duration>349000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0800033</meta>
+    </track>
+    <track>
+      <title>Digital Love (Boris Dlugosh Remix)</title>
+      <creator>Daft Punk</creator>
+      <album>Daft Club</album>
+      <trackNum>6</trackNum>
+      <duration>450000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDUW0100008</meta>
+    </track>
+    <track>
+      <title>Heartbeats</title>
+      <creator>The Knife</creator>
+      <album>Deep Cuts</album>
+      <trackNum>1</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWCE0400201</meta>
+    </track>
+    <track>
+      <title>Shutterbugg</title>
+      <creator>Big Boi</creator>
+      <album>Sir Lucious Left Foot...The Son Of Chico Dusty (Deluxe Edition (Explicit))</album>
+      <trackNum>5</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71010530</meta>
+    </track>
+    <track>
+      <title>Rollin' (Dirty Edit)</title>
+      <creator>Jackie Chain</creator>
+      <album>Rollin</album>
+      <trackNum>1</trackNum>
+      <duration>289000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70816891</meta>
+    </track>
+    <track>
+      <title>Mesopotamia</title>
+      <creator>The B-52's</creator>
+      <album>Time Capsule</album>
+      <trackNum>8</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE19000014</meta>
+    </track>
+    <track>
+      <title>Beat It (Single Version)</title>
+      <creator>Michael Jackson</creator>
+      <album>Thriller</album>
+      <trackNum>5</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19902990</meta>
+    </track>
+    <track>
+      <title>Billie Jean (Single Version)</title>
+      <creator>Michael Jackson</creator>
+      <album>Number Ones</album>
+      <trackNum>3</trackNum>
+      <duration>293000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19902991</meta>
+    </track>
+    <track>
+      <title>I Gotta Feeling</title>
+      <creator>The Black Eyed Peas</creator>
+      <album>THE E.N.D. (THE ENERGY NEVER DIES)</album>
+      <trackNum>5</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70965169</meta>
+    </track>
+    <track>
+      <title>Life During Wartime (Remastered Version )</title>
+      <creator>Talking Heads</creator>
+      <album>The Best Of Talking Heads</album>
+      <trackNum>6</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10302433</meta>
+    </track>
+    <track>
+      <title>Once In A Lifetime (Remastered Version )</title>
+      <creator>Talking Heads</creator>
+      <album>The Best Of Talking Heads</album>
+      <trackNum>9</trackNum>
+      <duration>260000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10302437</meta>
+    </track>
+    <track>
+      <title>L.E.S. Artistes</title>
+      <creator>Santigold</creator>
+      <album>Santigold</album>
+      <trackNum>1</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCJ80600133</meta>
+    </track>
+    <track>
+      <title>Suffer For Fashion</title>
+      <creator>of Montreal</creator>
+      <album>Hissing Fauna, Are You The Destroyer?</album>
+      <trackNum>1</trackNum>
+      <duration>178000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3R40612401</meta>
+    </track>
+    <track>
+      <title>Love Shack</title>
+      <creator>The B-52's</creator>
+      <album>Time Capsule</album>
+      <trackNum>13</trackNum>
+      <duration>321000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE11000321</meta>
+    </track>
+    <track>
+      <title>Private Idaho</title>
+      <creator>The B-52's</creator>
+      <album>Time Capsule</album>
+      <trackNum>6</trackNum>
+      <duration>218000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB18000106</meta>
+    </track>
+    <track>
+      <title>Sledgehammer</title>
+      <creator>Peter Gabriel</creator>
+      <album>Shaking The Tree - 16 Golden Greats (Remastered)</album>
+      <trackNum>3</trackNum>
+      <duration>295000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCPB0900606</meta>
+    </track>
+    <track>
+      <title>Under Pressure</title>
+      <creator>David Bowie</creator>
+      <album>Best Of Bowie</album>
+      <trackNum>13</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEG8100001</meta>
+    </track>
+    <track>
+      <title>Breaking Glass (1999 Remastered Version)</title>
+      <creator>David Bowie</creator>
+      <album>Low</album>
+      <trackNum>2</trackNum>
+      <duration>112000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJT19900116</meta>
+    </track>
+    <track>
+      <title>Holiday Nights</title>
+      <creator>DJ Sorama</creator>
+      <album>Mugen Manga Melodies Vol. 1</album>
+      <trackNum>11</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA8Y1010419</meta>
+    </track>
+  </trackList>
+</playlist>

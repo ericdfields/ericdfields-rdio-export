@@ -1,0 +1,20 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>❤s</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p1616025</meta>
+  <meta rel="https://rdio.com/xspf/name">❤s</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/1616025/%E2%9D%A4s/</meta>
+  <trackList>
+    <track>
+      <title>Slow Show</title>
+      <creator>The National</creator>
+      <album>Boxer</album>
+      <trackNum>6</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAZP0700008</meta>
+    </track>
+  </trackList>
+</playlist>

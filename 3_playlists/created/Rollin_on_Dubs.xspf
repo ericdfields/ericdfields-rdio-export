@@ -1,0 +1,388 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Rollin' on Dubs</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p2322328</meta>
+  <meta rel="https://rdio.com/xspf/name">Rollin' on Dubs</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/2322328/Rollin%27_on_Dubs/</meta>
+  <trackList>
+    <track>
+      <title>Notorious Thugs [Featuring Bone Thugs and Harmony] (Explicit Album Version) (feat. Bone Thugs and Harmony Explicit)</title>
+      <creator>The Notorious B.I.G.</creator>
+      <album>Greatest Hits</album>
+      <trackNum>10</trackNum>
+      <duration>367000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBB40706439</meta>
+    </track>
+    <track>
+      <title>Hello Brooklyn 2.0</title>
+      <creator>Jay-Z</creator>
+      <album>American Gangster</album>
+      <trackNum>4</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70759011</meta>
+    </track>
+    <track>
+      <title>Rollup (Baauer Remix) (Baauer Remix)</title>
+      <creator>Flosstradamus</creator>
+      <album>All Trap Music</album>
+      <trackNum>3</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1200100</meta>
+    </track>
+    <track>
+      <title>Goldie</title>
+      <creator>A$AP Rocky</creator>
+      <album>LONG.LIVE.A$AP (Deluxe Version)</album>
+      <trackNum>2</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11200221</meta>
+    </track>
+    <track>
+      <title>Snap Backs &amp; Tattoos</title>
+      <creator>Driicky Graham</creator>
+      <album>Snap Backs &amp; Tattoos</album>
+      <trackNum>1</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKO11200828,USKO11200840</meta>
+    </track>
+    <track>
+      <title>Lemonade</title>
+      <creator>Gucci Mane</creator>
+      <album>The State vs. Radric Davis (Deluxe)</album>
+      <trackNum>6</trackNum>
+      <duration>246000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10904741</meta>
+    </track>
+    <track>
+      <title>Oh Yes</title>
+      <creator>Juelz Santana</creator>
+      <album>What The Game's Been Missing!</album>
+      <trackNum>3</trackNum>
+      <duration>181000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70505114</meta>
+    </track>
+    <track>
+      <title>Backseat Freestyle</title>
+      <creator>Kendrick Lamar</creator>
+      <album>good kid, m.A.A.d city (Deluxe)</album>
+      <trackNum>3</trackNum>
+      <duration>213000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71210777</meta>
+    </track>
+    <track>
+      <title>Go DJ</title>
+      <creator>Lil Wayne</creator>
+      <album>Tha Carter</album>
+      <trackNum>2</trackNum>
+      <duration>282000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCM50400067</meta>
+    </track>
+    <track>
+      <title>Pledge Of Allegiance (feat. Wiz Khalifa, Planet VI &amp; B.O.B.)</title>
+      <creator>DJ Drama, Wiz Khalifia, Planet VI, B.O.B.</creator>
+      <album>Quality Street Music</album>
+      <trackNum>11</trackNum>
+      <duration>268000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKO11202101,USKO11202090</meta>
+    </track>
+    <track>
+      <title>Heart Of The City (Ain't No Love)</title>
+      <creator>Jay-Z</creator>
+      <album>The Blueprint</album>
+      <trackNum>8</trackNum>
+      <duration>223000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20110677</meta>
+    </track>
+    <track>
+      <title>Xxplosive</title>
+      <creator>Dr. Dre</creator>
+      <album>2001</album>
+      <trackNum>6</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR19915073</meta>
+    </track>
+    <track>
+      <title>F**kin' Problems [feat. Drake, 2 Chainz &amp; Kendrick Lamar]</title>
+      <creator>A$AP Rocky</creator>
+      <album>LONG.LIVE.A$AP (Deluxe Version)</album>
+      <trackNum>7</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11201220</meta>
+    </track>
+    <track>
+      <title>m.A.A.d city</title>
+      <creator>Kendrick Lamar</creator>
+      <album>good kid, m.A.A.d city (Deluxe)</album>
+      <trackNum>8</trackNum>
+      <duration>350000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71210784</meta>
+    </track>
+    <track>
+      <title>On My Level (feat. Too $hort)</title>
+      <creator>Wiz Khalifa</creator>
+      <album>Rolling Papers</album>
+      <trackNum>2</trackNum>
+      <duration>272000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21100053</meta>
+    </track>
+    <track>
+      <title>Hypnotize</title>
+      <creator>The Notorious B.I.G.</creator>
+      <album>Life After Death (Deluxe Version)</album>
+      <trackNum>3</trackNum>
+      <duration>230000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBB40580693</meta>
+    </track>
+    <track>
+      <title>Hustlin'</title>
+      <creator>Rick Ross</creator>
+      <album>Port Of Miami</album>
+      <trackNum>4</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70600878</meta>
+    </track>
+    <track>
+      <title>What's Up Fatlip</title>
+      <creator>Fatlip</creator>
+      <album>The Loneliest Punk</album>
+      <trackNum>18</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDE10501248</meta>
+    </track>
+    <track>
+      <title>From The Back (Lunice Remix) (Lunice Remix)</title>
+      <creator>Flosstradamus feat. Danny Brown</creator>
+      <album>All Trap Music</album>
+      <trackNum>7</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1200047</meta>
+    </track>
+    <track>
+      <title>Shine Blockas Remix</title>
+      <creator>Big Boi</creator>
+      <album>Sir Lucious Left Foot...The Son Of Chico Dusty (Deluxe Edition (Explicit))</album>
+      <trackNum>17</trackNum>
+      <duration>226000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71016511</meta>
+    </track>
+    <track>
+      <title>A Milli</title>
+      <creator>Lil Wayne</creator>
+      <album>Tha Carter III</album>
+      <trackNum>3</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCM50800553</meta>
+    </track>
+    <track>
+      <title>Detroit State of Mind</title>
+      <creator>Elzhi</creator>
+      <album>Elmatic</album>
+      <trackNum>2</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUYG1011144</meta>
+    </track>
+    <track>
+      <title>Hands On The Wheel</title>
+      <creator>Schoolboy Q</creator>
+      <album>Hands On The Wheel</album>
+      <trackNum>1</trackNum>
+      <duration>198000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM91366693,USUM71201324</meta>
+    </track>
+    <track>
+      <title>No Hands (feat. Roscoe Dash and Wale) [Explicit Album Version]</title>
+      <creator>Waka Flocka Flame</creator>
+      <album>Flockaveli</album>
+      <trackNum>5</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11002103</meta>
+    </track>
+    <track>
+      <title>Swimming Pools (Drank) (Extended Version)</title>
+      <creator>Kendrick Lamar</creator>
+      <album>good kid, m.A.A.d city (Deluxe)</album>
+      <trackNum>9</trackNum>
+      <duration>314000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71211089</meta>
+    </track>
+    <track>
+      <title>Celebration</title>
+      <creator>A$AP Rocky</creator>
+      <album>We Turnt Up Vol 6</album>
+      <trackNum>14</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USZ541200224</meta>
+    </track>
+    <track>
+      <title>Ms. Rightfernow</title>
+      <creator>Wiz Khalifa</creator>
+      <album>Flight School</album>
+      <trackNum>2</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51083897</meta>
+    </track>
+    <track>
+      <title>Bang</title>
+      <creator>Rye Rye</creator>
+      <album>Bang</album>
+      <trackNum>1</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70957016</meta>
+    </track>
+    <track>
+      <title>Rolex</title>
+      <creator>The-Dream</creator>
+      <album>Terius Nash : 1977</album>
+      <trackNum>6</trackNum>
+      <duration>221000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71213770</meta>
+    </track>
+    <track>
+      <title>Mercy</title>
+      <creator>Kanye West</creator>
+      <album>Mercy</album>
+      <trackNum>1</trackNum>
+      <duration>329000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71203564</meta>
+    </track>
+    <track>
+      <title>Stupid Wild (feat. Lil Wayne, Cam'Ron)</title>
+      <creator>Gucci Mane</creator>
+      <album>The State vs. Radric Davis (Deluxe)</album>
+      <trackNum>4</trackNum>
+      <duration>270000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10904739</meta>
+    </track>
+    <track>
+      <title>Druggys WitH Hoes Again</title>
+      <creator>Schoolboy Q</creator>
+      <album>Druggys WitH Hoes Again (feat. Ab-Soul) - Single</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUYG1010154</meta>
+    </track>
+    <track>
+      <title>Let Me See The Booty (Album Version (Edited))</title>
+      <creator>The-Dream</creator>
+      <album>Love Vs Money</album>
+      <trackNum>14</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70954920</meta>
+    </track>
+    <track>
+      <title>Nothin On Ya [feat. Wiz Khalifa]</title>
+      <creator>Gucci Mane</creator>
+      <album>Trap God 2</album>
+      <trackNum>3</trackNum>
+      <duration>239000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAE81339087</meta>
+    </track>
+    <track>
+      <title>The Way We Ride</title>
+      <creator>T.I.</creator>
+      <album>Trouble Man: Heavy is the Head</album>
+      <trackNum>10</trackNum>
+      <duration>242000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21207168</meta>
+    </track>
+    <track>
+      <title>How Low</title>
+      <creator>Ludacris</creator>
+      <album>Battle Of The Sexes (Deluxe Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70913041</meta>
+    </track>
+    <track>
+      <title>All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg &amp; Rick Ross)</title>
+      <creator>Dj Khaled</creator>
+      <album>Victory</album>
+      <trackNum>2</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKO11000189</meta>
+    </track>
+    <track>
+      <title>Booty in the Air</title>
+      <creator>Das Racist</creator>
+      <album>Relax</album>
+      <trackNum>8</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USME31101033</meta>
+    </track>
+    <track>
+      <title>Neighborhood Hoez</title>
+      <creator>Freddie Gibbs</creator>
+      <album>Cold Day In Hell</album>
+      <trackNum>14</trackNum>
+      <duration>203000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUYG1022734</meta>
+    </track>
+    <track>
+      <title>Capitol (feat. 2 Chainz)</title>
+      <creator>Curren$y</creator>
+      <album>The Stoned Immaculate</album>
+      <trackNum>6</trackNum>
+      <duration>305000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11200738,USWB11200724</meta>
+    </track>
+    <track>
+      <title>Rubber Band Man [Explicit + Buster Skit]</title>
+      <creator>T.I.</creator>
+      <album>Trap Muzik</album>
+      <trackNum>8</trackNum>
+      <duration>348000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20301936</meta>
+    </track>
+    <track>
+      <title>Clique</title>
+      <creator>Kanye West, Jay-Z &amp; Big Sean</creator>
+      <album>Clique</album>
+      <trackNum>1</trackNum>
+      <duration>294000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71209867</meta>
+    </track>
+    <track>
+      <title>Get Back</title>
+      <creator>Ludacris</creator>
+      <album>The Red Light District</album>
+      <trackNum>3</trackNum>
+      <duration>270000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20401031</meta>
+    </track>
+    <track>
+      <title>Bounce It (Explicit Version)</title>
+      <creator>Juicy J</creator>
+      <album>Stay Trippy</album>
+      <trackNum>5</trackNum>
+      <duration>260000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11302896</meta>
+    </track>
+    <track>
+      <title>I'm On One</title>
+      <creator>Dj Khaled</creator>
+      <album>We The Best Forever</album>
+      <trackNum>1</trackNum>
+      <duration>296000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCM51100126</meta>
+    </track>
+    <track>
+      <title>And Then What ((Explicit))</title>
+      <creator>Young Jeezy</creator>
+      <album>Go Getta Hit Pack</album>
+      <trackNum>2</trackNum>
+      <duration>246000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20500257</meta>
+    </track>
+    <track>
+      <title>For Real</title>
+      <creator>Rittz</creator>
+      <album>The Life and Times of Jonny Valiant (Deluxe Edition)</album>
+      <trackNum>10</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51346854</meta>
+    </track>
+  </trackList>
+</playlist>

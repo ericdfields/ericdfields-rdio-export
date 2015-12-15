@@ -1,0 +1,52 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>2013-10</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p6705657</meta>
+  <meta rel="https://rdio.com/xspf/name">2013-10</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/6705657/2013-10/</meta>
+  <trackList>
+    <track>
+      <title>Dip</title>
+      <creator>Danny Brown</creator>
+      <album>Old</album>
+      <trackNum>13</trackNum>
+      <duration>211000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1300263</meta>
+    </track>
+    <track>
+      <title>Smokin &amp; Drinkin</title>
+      <creator>Danny Brown</creator>
+      <album>Old</album>
+      <trackNum>14</trackNum>
+      <duration>173000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1300264</meta>
+    </track>
+    <track>
+      <title>Night Sky</title>
+      <creator>CHVRCHES</creator>
+      <album>The Bones Of What You Believe (Special Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZN81300024</meta>
+    </track>
+    <track>
+      <title>Body Party</title>
+      <creator>Ciara</creator>
+      <album>Ciara</album>
+      <trackNum>3</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11301017</meta>
+    </track>
+    <track>
+      <title>Collard Greens</title>
+      <creator>Schoolboy Q</creator>
+      <album>Collard Greens</album>
+      <trackNum>1</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM91364946</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,332 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>My Shazam Tracks</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p7670801</meta>
+  <meta rel="https://rdio.com/xspf/name">My Shazam Tracks</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/7670801/My_Shazam_Tracks/</meta>
+  <trackList>
+    <track>
+      <title>Green Onions</title>
+      <creator>Booker T. Jones</creator>
+      <album>Best of Twist and Madison</album>
+      <trackNum>3</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBXS1277445</meta>
+    </track>
+    <track>
+      <title>Marea Baja</title>
+      <creator>Ken Griffin</creator>
+      <album>El Organo Melodico De</album>
+      <trackNum>4</trackNum>
+      <duration>133000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBXS1153031</meta>
+    </track>
+    <track>
+      <title>This Head I Hold</title>
+      <creator>Electric Guest</creator>
+      <album>Mondo</album>
+      <trackNum>2</trackNum>
+      <duration>175000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51266755,USCJ81100776</meta>
+    </track>
+    <track>
+      <title>This Head I Hold</title>
+      <creator>Electric Guest</creator>
+      <album>Mondo</album>
+      <trackNum>2</trackNum>
+      <duration>175000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51266755,USCJ81100776</meta>
+    </track>
+    <track>
+      <title>Came Out of a Lady</title>
+      <creator>Rubblebucket</creator>
+      <album>Omega La La</album>
+      <trackNum>4</trackNum>
+      <duration>275000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMXAM1100004</meta>
+    </track>
+    <track>
+      <title>Life Sweet</title>
+      <creator>Vybz Kartel</creator>
+      <album>Pon Di Gaza 2.0</album>
+      <trackNum>31</trackNum>
+      <duration>219000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51409973</meta>
+    </track>
+    <track>
+      <title>Finally Moving</title>
+      <creator>Pretty Lights</creator>
+      <album>Taking up Your Precious Time</album>
+      <trackNum>4</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USTC70806759</meta>
+    </track>
+    <track>
+      <title>Gravitas</title>
+      <creator>Little People</creator>
+      <album>Mickey Mouse Operation</album>
+      <trackNum>14</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCWH0605516</meta>
+    </track>
+    <track>
+      <title>1989</title>
+      <creator>Fan-Tan</creator>
+      <album>A Strange Game</album>
+      <trackNum>6</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USV291349836</meta>
+    </track>
+    <track>
+      <title>Kites</title>
+      <creator>Geographer</creator>
+      <album>Myth</album>
+      <trackNum>10</trackNum>
+      <duration>328000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8JX1200101</meta>
+    </track>
+    <track>
+      <title>I Look to You</title>
+      <creator>Miami Horror, Kimbra</creator>
+      <album>Moda Volume 1 (Unmixed Version)</album>
+      <trackNum>2</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUMH31000057</meta>
+    </track>
+    <track>
+      <title>You and I</title>
+      <creator>Washed Out</creator>
+      <album>Within And Without</album>
+      <trackNum>7</trackNum>
+      <duration>313000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1100278,USSUB1194507</meta>
+    </track>
+    <track>
+      <title>My Radio</title>
+      <creator>Solvent</creator>
+      <album>Apples &amp; Synthesizers</album>
+      <trackNum>3</trackNum>
+      <duration>274000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J70403503</meta>
+    </track>
+    <track>
+      <title>Ding Dong</title>
+      <creator>Waipod Phetsuphan</creator>
+      <album>Sound of Siam - Leftfield Luk Thung, Jazz &amp; Molam in Thailand 1964-1975 (Soundway Records)</album>
+      <trackNum>9</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUQH1000132</meta>
+    </track>
+    <track>
+      <title>No Sleep (Single)</title>
+      <creator>Jet Life, Curren$y, Trademark Da Skydiver, Young Roddy</creator>
+      <album>No Sleep (feat. Curren$y, Trademark Da Skydiver &amp; Young Roddy) - Single</album>
+      <trackNum>1</trackNum>
+      <duration>322000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US7SR1200155</meta>
+    </track>
+    <track>
+      <title>Tube Glory</title>
+      <creator>The Dynamics</creator>
+      <album>Kill The Moonlight: The Motion Picture Soundtrack</album>
+      <trackNum>14</trackNum>
+      <duration>155000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY50972773</meta>
+    </track>
+    <track>
+      <title>Fineshrine</title>
+      <creator>Purity Ring</creator>
+      <album>Shrines</album>
+      <trackNum>2</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL1200171</meta>
+    </track>
+    <track>
+      <title>Timestretch</title>
+      <creator>Bassnectar</creator>
+      <album>Timestretch</album>
+      <trackNum>4</trackNum>
+      <duration>362000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US5PM1010012</meta>
+    </track>
+    <track>
+      <title>Budu S Toboy</title>
+      <creator>Yolan, Kenia</creator>
+      <album>Budu S Toboy</album>
+      <trackNum>1</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V80992755</meta>
+    </track>
+    <track>
+      <title>All Good Naysayers, Speak Up! Or Forever Hold Your Peace!</title>
+      <creator>Sufjan Stevens</creator>
+      <album>Michigan</album>
+      <trackNum>2</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G0300702</meta>
+    </track>
+    <track>
+      <title>Freaking Out the Neighborhood</title>
+      <creator>Mac Demarco</creator>
+      <album>2</album>
+      <trackNum>3</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMMZN1200048</meta>
+    </track>
+    <track>
+      <title>I'm Not The Same Without You</title>
+      <creator>Donald Fagen</creator>
+      <album>Sunken Condos</album>
+      <trackNum>2</trackNum>
+      <duration>271000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE11200274</meta>
+    </track>
+    <track>
+      <title>Miss Marlene</title>
+      <creator>Donald Fagen</creator>
+      <album>Sunken Condos</album>
+      <trackNum>7</trackNum>
+      <duration>283000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE11200279</meta>
+    </track>
+    <track>
+      <title>Born To Die</title>
+      <creator>Lana Del Rey</creator>
+      <album>Born To Die</album>
+      <trackNum>1</trackNum>
+      <duration>286000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71111120</meta>
+    </track>
+    <track>
+      <title>Off To The Races</title>
+      <creator>Lana Del Rey</creator>
+      <album>Born To Die</album>
+      <trackNum>2</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71111530</meta>
+    </track>
+    <track>
+      <title>Mary Ruth</title>
+      <creator>Anna Aaron</creator>
+      <album>I'll Dry Your Tears Little Murderer</album>
+      <trackNum>1</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CH4931000232</meta>
+    </track>
+    <track>
+      <title>Samson</title>
+      <creator>Regina Spektor</creator>
+      <album>Begin To Hope</album>
+      <trackNum>3</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10601621</meta>
+    </track>
+    <track>
+      <title>Don't Stop</title>
+      <creator>Odesza</creator>
+      <album>Summer's Gone</album>
+      <trackNum>11</trackNum>
+      <duration>168000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABN1368396</meta>
+    </track>
+    <track>
+      <title>From Nowhere</title>
+      <creator>Dan Croll</creator>
+      <album>From Nowhere EP</album>
+      <trackNum>1</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2P1251792</meta>
+    </track>
+    <track>
+      <title>Rise Up</title>
+      <creator>Commodores</creator>
+      <album>The Very Best of The Commodores</album>
+      <trackNum>5</trackNum>
+      <duration>183000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USB4T1104137</meta>
+    </track>
+    <track>
+      <title>Rising Down</title>
+      <creator>The Roots</creator>
+      <album>Rising Down</album>
+      <trackNum>2</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70810587</meta>
+    </track>
+    <track>
+      <title>A Walk</title>
+      <creator>Tycho</creator>
+      <album>Dive</album>
+      <trackNum>1</trackNum>
+      <duration>316000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QM7281466706,US2J71104501</meta>
+    </track>
+    <track>
+      <title>Precious Part One</title>
+      <creator>Vargo</creator>
+      <album>Precious</album>
+      <trackNum>9</trackNum>
+      <duration>287000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEGX60900080</meta>
+    </track>
+    <track>
+      <title>Don't Save Me</title>
+      <creator>Haim</creator>
+      <album>Days Are Gone</album>
+      <trackNum>6</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11206550,GBUM71207022</meta>
+    </track>
+    <track>
+      <title>Ain't Leavin Without You</title>
+      <creator>Jaheim</creator>
+      <album>Another Round</album>
+      <trackNum>1</trackNum>
+      <duration>200000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20903800</meta>
+    </track>
+    <track>
+      <title>There Will Never Be Another You</title>
+      <creator>Stan Getz</creator>
+      <album>Affinity</album>
+      <trackNum>1</trackNum>
+      <duration>479000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEANF0200501</meta>
+    </track>
+    <track>
+      <title>Daydreamin'</title>
+      <creator>Lupe Fiasco, Jill Scott</creator>
+      <album>Jill Scott Collaborations</album>
+      <trackNum>2</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20616187</meta>
+    </track>
+    <track>
+      <title>Sun Models (feat. Madelyn Grant)</title>
+      <creator>ODESZA,Madelyn Grant</creator>
+      <album>Sun Models (feat. Madelyn Grant)</album>
+      <trackNum>1</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABU1425638</meta>
+    </track>
+    <track>
+      <title>Music Is Life</title>
+      <creator>Elliphant</creator>
+      <album>Music Is Life</album>
+      <trackNum>1</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWEE1300401</meta>
+    </track>
+    <track>
+      <title>Diaphanous</title>
+      <creator>Singularis</creator>
+      <album>Flying Thru Yo Hood</album>
+      <trackNum>3</trackNum>
+      <duration>200000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEAX1301311</meta>
+    </track>
+  </trackList>
+</playlist>

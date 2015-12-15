@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Electro Girls</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p6790719</meta>
+  <meta rel="https://rdio.com/xspf/name">Electro Girls</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/6790719/Electro_Girls/</meta>
+  <trackList>
+    <track>
+      <title>Fall Over</title>
+      <creator>Banks</creator>
+      <album>Fall Over</album>
+      <trackNum>1</trackNum>
+      <duration>208000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US53Q1200053</meta>
+    </track>
+    <track>
+      <title>Lies</title>
+      <creator>CHVRCHES</creator>
+      <album>The Bones Of What You Believe (Special Edition)</album>
+      <trackNum>5</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZN81300022</meta>
+    </track>
+    <track>
+      <title>Night Sky</title>
+      <creator>CHVRCHES</creator>
+      <album>The Bones Of What You Believe (Special Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZN81300024</meta>
+    </track>
+    <track>
+      <title>Royals</title>
+      <creator>Lorde</creator>
+      <album>Pure Heroine</album>
+      <trackNum>3</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NZUM71200031</meta>
+    </track>
+    <track>
+      <title>Water Me</title>
+      <creator>FKA twigs</creator>
+      <album>Water Me</album>
+      <trackNum>1</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1300086</meta>
+    </track>
+    <track>
+      <title>Mysterons</title>
+      <creator>Portishead</creator>
+      <album>Dummy (Non UK Version)</album>
+      <trackNum>1</trackNum>
+      <duration>302000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAQT9400060</meta>
+    </track>
+    <track>
+      <title>Roads</title>
+      <creator>Portishead</creator>
+      <album>Dummy (Non UK Version)</album>
+      <trackNum>8</trackNum>
+      <duration>303000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAQT9400064</meta>
+    </track>
+    <track>
+      <title>The Rip</title>
+      <creator>Portishead</creator>
+      <album>Third (Non EU Version)</album>
+      <trackNum>4</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70801437</meta>
+    </track>
+    <track>
+      <title>Born To Die</title>
+      <creator>Lana Del Rey</creator>
+      <album>Born To Die (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>286000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71111120</meta>
+    </track>
+    <track>
+      <title>Young And Beautiful</title>
+      <creator>Lana Del Rey</creator>
+      <album>Music From Baz Luhrmann's Film The Great Gatsby (Deluxe Edition)</album>
+      <trackNum>3</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71301823</meta>
+    </track>
+    <track>
+      <title>Teardrop</title>
+      <creator>Massive Attack</creator>
+      <album>Mezzanine</album>
+      <trackNum>3</trackNum>
+      <duration>330000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9800322</meta>
+    </track>
+    <track>
+      <title>Your Drums, Your Love</title>
+      <creator>AlunaGeorge</creator>
+      <album>Body Music</album>
+      <trackNum>4</trackNum>
+      <duration>219000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR91312804</meta>
+    </track>
+    <track>
+      <title>Wildfire (feat. Little Dragon)</title>
+      <creator>SBTRKT</creator>
+      <album>SBTRKT</album>
+      <trackNum>3</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1100054</meta>
+    </track>
+  </trackList>
+</playlist>

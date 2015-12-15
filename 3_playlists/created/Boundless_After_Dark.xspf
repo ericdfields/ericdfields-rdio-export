@@ -1,0 +1,100 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Boundless After Dark</title>
+  <creator>ericdfields</creator>
+  <meta rel="https://rdio.com/xspf/key">p5345304</meta>
+  <meta rel="https://rdio.com/xspf/name">Boundless After Dark</meta>
+  <meta rel="https://rdio.com/xspf/owner">ericdfields</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/ericdfields/playlists/5345304/Boundless_After_Dark/</meta>
+  <trackList>
+    <track>
+      <title>Hurting (C2 Runway Edit)</title>
+      <creator>Friendly Fires</creator>
+      <album>Hurting</album>
+      <trackNum>4</trackNum>
+      <duration>502000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1200006</meta>
+    </track>
+    <track>
+      <title>Cruel Intentions (Single version)</title>
+      <creator>Simian Mobile Disco</creator>
+      <album>Cruel Intentions</album>
+      <trackNum>1</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDNH0900097</meta>
+    </track>
+    <track>
+      <title>Last Friday Night (T.G.I.F.) [feat. Missy Elliott]</title>
+      <creator>Katy Perry</creator>
+      <album>Teenage Dream: The Complete Confection</album>
+      <trackNum>18</trackNum>
+      <duration>239000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21101608</meta>
+    </track>
+    <track>
+      <title>Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)</title>
+      <creator>Lana Del Rey, Cedric Gervais</creator>
+      <album>Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71304610</meta>
+    </track>
+    <track>
+      <title>Talk Amongst Yourselves (Sasha Remix)</title>
+      <creator>Grand National</creator>
+      <album>B-Sides, Remixes &amp; Rarities</album>
+      <trackNum>10</trackNum>
+      <duration>581000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBGNS0400036</meta>
+    </track>
+    <track>
+      <title>Saturday Night Ate Our Lives</title>
+      <creator>Whitey</creator>
+      <album>Saturday Night Ate Our Lives</album>
+      <trackNum>1</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBR9M1200036</meta>
+    </track>
+    <track>
+      <title>Perfect</title>
+      <creator>Robert DeLong</creator>
+      <album>Just Movement</album>
+      <trackNum>10</trackNum>
+      <duration>382000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USYAH1200384</meta>
+    </track>
+    <track>
+      <title>Marijuana</title>
+      <creator>Chrome Sparks</creator>
+      <album>Sparks EP</album>
+      <trackNum>2</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMHHY1300002</meta>
+    </track>
+    <track>
+      <title>Look At Where We Are (Major Lazer remix)</title>
+      <creator>Hot Chip</creator>
+      <album>Dark and Stormy</album>
+      <trackNum>8</trackNum>
+      <duration>255000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1200293</meta>
+    </track>
+    <track>
+      <title>Hidden Xs</title>
+      <creator>Fuck Buttons</creator>
+      <album>Slow Focus</album>
+      <trackNum>7</trackNum>
+      <duration>612000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">UK2EF1300007</meta>
+    </track>
+    <track>
+      <title>Como Te Vas</title>
+      <creator>Trails And Ways</creator>
+      <album>Trilingual</album>
+      <trackNum>1</trackNum>
+      <duration>158000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABO1328307</meta>
+    </track>
+  </trackList>
+</playlist>
